@@ -19,6 +19,7 @@
   "homepage": "https://github.com/danielstern/integration-test-repo#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
+    "eval": "^0.1.6",
     "express": "^4.13.4",
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.0",
